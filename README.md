@@ -105,10 +105,3 @@ lib/
 - Bu dosyalar `.gitignore` ile hariç tutulmuştur
 - Kendi Firebase projenizi oluşturmalı ve yapılandırmalısınız
 
-## 📄 Lisans
-
-Bu proje özel bir projedir.
-
-## 👥 İletişim
-
-Sorularınız için lütfen iletişime geçin.

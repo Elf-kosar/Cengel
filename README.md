@@ -73,10 +73,6 @@ flutter run
 
 - ✅ Android
 - ✅ iOS
-- ⚠️ Web (Sınırlı özellikler)
-- ⚠️ Windows (Sınırlı özellikler)
-- ⚠️ Linux (Sınırlı özellikler)
-- ⚠️ macOS (Sınırlı özellikler)
 
 ## 🏗️ Proje Yapısı
 
